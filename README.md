@@ -20,7 +20,7 @@ format i.e. wat. This helps us to infer the source language that was used in WAS
 It maintains the stats under /wasm/tools/wasm-validator/logs folder.
 
 ### Populate stats : 
-We continue use "wasm-stats" rust library (command line) to get WebAssembly’s other important stats for each Wasm and populates final statistics.
+We continue use "wasm-stats" rust library (command line) to get WebAssembly’s other important stats for each Wasm and populate final statistics.
 It maintains the stats under /wasm/tools/wasm-stats/outs folder.
 
 We have tested with more then ~600K wasm file including clients i.e. desktop and mobile.

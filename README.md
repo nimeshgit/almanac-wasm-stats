@@ -2,7 +2,7 @@
 
 Thought : 
 The cutting-edge technologies like WebAssembly continuously evolve with various Tool-Kits, Sdks and Libraries. 
-How can We adopt multiple tools or utility libraries together in plug-n-play architecture to enhance final statistics for WebAssembly.
+How can We adopt multiple tools or utility libraries together in plug-n-play architecture to enhance final statistics for WebAssembly in Almanac.
 
 This tool can be used for offline single and or bulk analysis of WebAssembly. 
 It produces the stat in JSON format by using Web Assembly Binary Toolkit along with [Almanac WebAssembly analysis Rust Library Tool](https://github.com/HTTPArchive/wasm-stats).

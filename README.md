@@ -26,6 +26,6 @@ It maintains the stats under /wasm/tools/wasm-stats/outs folder.
 The core implementation were tested with more then ~600K wasm modules including clients i.e. desktop and mobile.
 
 Thank you for visiting this repository,
-We are planing to move this repository under [HttpArchive Almanac](https://github.com/HTTPArchive/almanac.httparchive.org) repository.
+We are planing to move this repository under [HttpArchive Almanac](https://github.com/HTTPArchive/) repository.
 With Regards, 
 Vadgama

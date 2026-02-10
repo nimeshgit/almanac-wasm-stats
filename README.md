@@ -23,4 +23,7 @@ It maintains the stats under /wasm/tools/wasm-validator/logs folder.
 We continue use "wasm-stats" rust library (command line) to get WebAssembly’s other important stats for each Wasm and populate final statistics.
 It maintains the stats under /wasm/tools/wasm-stats/outs folder.
 
-We have tested with more then ~600K wasm file including clients i.e. desktop and mobile.
+The core implementation were tested with more then ~600K wasm modules including clients i.e. desktop and mobile.
+
+Thank you and regards for visiting this repository,
+We are planing to move this repository under HttpArchive Almanac repository.
